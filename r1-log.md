@@ -10,3 +10,8 @@ The log of my #100DaysOfCode challenge. Started on [1 Nov, Tuesday, 2022].
 # Day 2
 1. Did the next permutation problem
 2. Wrote and executed code for ADNI 3D CNN
+
+# Day 3
+1. Did contains duplicate problem
+2. Did Valid Anagram problem
+3. Did two sum problem
